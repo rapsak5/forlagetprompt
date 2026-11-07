@@ -1,0 +1,16 @@
+# Forlaget Prompt
+
+> Forlaget Prompt er et nyt, lille dansk forlag, der laver korte temabøger om, hvordan AI faktisk bliver brugt i arbejdsdagen. Ingen hype og ingen tykke manualer. De første bøger er undervejs.
+
+Forlaget Prompt er en del af [ai-workshop.dk](https://ai-workshop.dk/) og drives af Berg-Streaming (CVR 40989102), Ove Billes Vej 7, 1., 2300 København S. Kontakt: kasper@ai-workshop.dk. Senest opdateret 2026-11-07.
+
+## Temaer
+- **Individ: AI som din sparringspartner.** Mails, dokumenter, research og de daglige opgaver, og hvordan AI kan udfordre dig i stedet for bare at svare.
+- **Team: Fra smarte tricks til fælles arbejdsgange.** Hvad der sker med opgaverne, når nogle i teamet bliver gode til AI.
+- **Organisation: Rammer, der giver lyst til at prøve.** Kultur, ledelse og tryghed som betingelser for ansvarlige eksperimenter.
+
+## Sådan bliver bøgerne
+Kort format og korte kapitler. Hvert kapitel slutter med en øvelse på læserens eget materiale. Indholdet bygger på erfaringer fra 79 workshops og webinarer med over 3.500 deltagere på universiteter, i kommuner og i virksomheder.
+
+## Forfatter
+Kasper Bergstrøm holder workshops og webinarer om AI i arbejdsdagen gennem [ai-workshop.dk](https://ai-workshop.dk/).
